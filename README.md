@@ -1,3 +1,5 @@
 # git_course
 practicing
-##projectnotes
+
+
+## project notes
